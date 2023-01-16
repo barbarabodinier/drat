@@ -6,3 +6,11 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: rCOSA
+Version: 0.3.1.0
+Depends: R (>= 3.1.1)
+Imports: tools,base, stats, grDevices, graphics
+License: GPL-2
+MD5sum: 97394d2178cc24380e1109f2b2ac1e9e
+NeedsCompilation: yes
